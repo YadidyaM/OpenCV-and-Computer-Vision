@@ -19,7 +19,8 @@ To perform inference on a new image:
 4. **Visualize Results:** Visualize the detected boats on the original image.
 
 **Results**
-"C:\Users\medep\OneDrive\Pictures\Screenshots\Screenshot (25).png"
+![Screenshot (25)](https://github.com/user-attachments/assets/2275b134-d297-45ea-8913-0eba2b2b7f04)
+
 
 **Acknowledgements**
 
